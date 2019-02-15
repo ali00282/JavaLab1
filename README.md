@@ -1,2 +1,2 @@
-# JavaLab1
+# Java
 Javalab1(JavaFX)
